@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/KevDCS/testimonial-grid.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://dreamy-biscochitos-1e2afb.netlify.app/)
 
 ## My process
 
